@@ -4,7 +4,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Sophomore CS & Math student at UT Austin.
+- 🔭 I’m currently a Junior CS & Math student at UT Austin.
+- 💼 I'm currently working as a Student Analyst at UT RSOC.
 - 📚 I’m interested in learning more about Machine and Deep Learning, Cybersecurity, and greater Software development.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m looking for a software development/data science internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/williamsanderss) [Gmail](mailto:williamesanders05@gmail.com)
